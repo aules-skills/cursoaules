@@ -1,0 +1,124 @@
+{
+  "course_shortname": "DIGITALITZACIO_4ESO",
+  "course_fullname": "Digitalitzacio 4t ESO",
+  "course_summary": "Curs organitzat per temes. El llibre de qualificacions esta organitzat per competencia especifica i, dins de cada competencia, per criteri d'avaluacio: cada practica es qualifica dins dels criteris concrets que avalua.",
+  "category_name": "Digitalitzacio",
+  "wwwroot": "https://aules.edu.gva.es/docent",
+  "moodle_version": "2024100710.08",
+  "moodle_release": "4.5.10+ (Build: 20260403)",
+  "site_identifier_hash": "276defd03abf8ae32f54c6bf719ce3f6",
+  "enrol_method": "aules",
+  "num_evaluacions": 3,
+  "eval_names": {
+    "1": "1a Avaluacio",
+    "2": "2a Avaluacio",
+    "3": "3a Avaluacio"
+  },
+  "general_intro_html": "<p>Benvinguts/des a Digitalitzacio 4t ESO. Programacio, normes d'aula, calendari d'avaluacions i taulell d'anuncis.</p>",
+  "filename": "Digitalitzacio_4tESO.mbz",
+  "num_practiques_per_tema": 4,
+  "criteris_per_practica": 1,
+  "evaluacio_weights": {
+    "activitats": 60,
+    "recursos": 30,
+    "examen": 10
+  },
+  "competencias": [
+    {
+      "codigo": "CE1",
+      "texto": "Dissenyar equips i xarxes de comunicacio d'us personal i domestic, administrar-los i utilitzar-los de manera segura i sostenible.",
+      "criterios": [
+        {
+          "codigo": "1.1",
+          "texto": "Dissenyar ordinadors personals prenent decisions raonades, sobre la base dels seus requeriments, aixi com la sostenibilitat i el consum responsable.",
+          "tipo": "accion"
+        },
+        {
+          "codigo": "1.2",
+          "texto": "Dissenyar xarxes domestiques aplicant els coneixements i processos associats a sistemes de comunicacions cablejats i sense fil.",
+          "tipo": "accion"
+        },
+        {
+          "codigo": "1.3",
+          "texto": "Connectar components de sistemes informatics i xarxes domestiques, utilitzant dispositius fisics o simuladors.",
+          "tipo": "accion"
+        },
+        {
+          "codigo": "1.4",
+          "texto": "Instal·lar, utilitzar i mantindre sistemes operatius i aplicacions, configurant-ne les caracteristiques en funcio de les necessitats personals.",
+          "tipo": "accion"
+        },
+        {
+          "codigo": "1.5",
+          "texto": "Administrar dispositius mobils i xarxes domestiques de manera segura i sostenible, segons l'us per al qual estan destinats.",
+          "tipo": "concepto"
+        },
+        {
+          "codigo": "1.6",
+          "texto": "Participar en equips de treball per a dissenyar, administrar i utilitzar equips i xarxes de comunicacio, respectant els rols assignats i les aportacions de la resta d'integrants del grup.",
+          "tipo": "concepto"
+        }
+      ]
+    },
+    {
+      "codigo": "CE5",
+      "texto": "Afrontar els desafiaments informatics i digitals que la societat de la informacio planteja en els ambits personal, domestic i educatiu, i formular possibles solucions.",
+      "criterios": [
+        {
+          "codigo": "5.1",
+          "texto": "Gestionar situacions d'incertesa en entorns digitals amb una actitud positiva, i afrontar-les utilitzant el coneixement adquirit i sentint-se competent."
+        },
+        {
+          "codigo": "5.2",
+          "texto": "Adaptar-se als canvis originats per les tecnologies digitals en l'ambit personal, formatiu, social i laboral."
+        },
+        {
+          "codigo": "5.3",
+          "texto": "Identificar necessitats en l'entorn digital analitzant-les i seleccionant, si escau, les eines digitals mes adequades per a satisfer-les."
+        },
+        {
+          "codigo": "5.4",
+          "texto": "Resoldre necessitats no tecnologiques utilitzant per a aixo tecnologies digitals de manera creativa."
+        }
+      ]
+    }
+  ],
+  "temas": [
+    {
+      "n": 1,
+      "name": "Arquitectura d'ordinadors",
+      "bloc": "Bloc 1 de sabers basics",
+      "eval": 1,
+      "competencia": {
+        "codi": "CE1",
+        "text": "Dissenyar equips i xarxes de comunicacio d'us personal i domestic, administrar-los i utilitzar-los de manera segura i sostenible.",
+        "criteris": "1.1-1.6"
+      },
+      "competencies_extra": [
+        {
+          "etiqueta": "Competencia transversal",
+          "codi": "CE5",
+          "text": "Afrontar els desafiaments informatics i digitals que la societat de la informacio planteja.",
+          "criteris": "5.1-5.4"
+        }
+      ],
+      "recursos_extra": ["binarygame"],
+      "criterios_tema": [
+        {"ce": "CE1", "crit": "1.1"},
+        {"ce": "CE1", "crit": "1.2"},
+        {"ce": "CE1", "crit": "1.5"}
+      ]
+    },
+    {
+      "n": 2,
+      "name": "Sistemes operatius",
+      "bloc": "Bloc 1 de sabers basics",
+      "eval": 1,
+      "competencia": {
+        "codi": "CE1",
+        "text": "Dissenyar equips i xarxes de comunicacio d'us personal i domestic, administrar-los i utilitzar-los de manera segura i sostenible.",
+        "criteris": "1.1-1.6"
+      }
+    }
+  ]
+}

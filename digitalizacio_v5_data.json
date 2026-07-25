@@ -1,0 +1,497 @@
+{
+  "course_shortname": "DIGITALITZACIO_4ESO",
+  "course_fullname": "Digitalitzacio 4t ESO",
+  "course_summary": "Curs organitzat per temes (segons el Decret 107/2022, annex Digitalitzacio). El llibre de qualificacions esta organitzat per competencia especifica i, dins de cada competencia, per criteri d'avaluacio: cada activitat es qualifica dins del criteri concret que avalua.",
+  "category_name": "Digitalitzacio",
+  "general_intro_html": "<p>Benvinguts/des a Digitalitzacio 4t ESO. Programacio, normes d'aula, calendari i taulell d'anuncis.</p>",
+  "filename": "Digitalitzacio_4tESO_v20.mbz",
+  "competencias": [
+    {
+      "codigo": "CE1",
+      "texto": "Dissenyar equips i xarxes de comunicacio d'us personal i domestic, administrar-los i utilitzar-los de manera segura i sostenible.",
+      "criterios": [
+        {
+          "codigo": "1.1",
+          "texto": "Dissenyar ordinadors personals prenent decisions raonades, sobre la base dels seus requeriments, aixi com la sostenibilitat i el consum responsable."
+        },
+        {
+          "codigo": "1.2",
+          "texto": "Dissenyar xarxes domestiques aplicant els coneixements i processos associats a sistemes de comunicacions cablejats i sense fil."
+        },
+        {
+          "codigo": "1.3",
+          "texto": "Connectar components de sistemes informatics i xarxes domestiques, utilitzant dispositius fisics o simuladors."
+        },
+        {
+          "codigo": "1.4",
+          "texto": "Instal·lar, utilitzar i mantindre sistemes operatius i aplicacions, configurant-ne les caracteristiques en funcio de les necessitats personals."
+        },
+        {
+          "codigo": "1.5",
+          "texto": "Administrar dispositius mobils i xarxes domestiques de manera segura i sostenible, segons l'us per al qual estan destinats."
+        },
+        {
+          "codigo": "1.6",
+          "texto": "Participar en equips de treball per a dissenyar, administrar i utilitzar equips i xarxes de comunicacio, respectant els rols assignats i les aportacions de la resta d'integrants del grup."
+        }
+      ]
+    },
+    {
+      "codigo": "CE2",
+      "texto": "Buscar, seleccionar i organitzar la informacio en l'entorn personal d'aprenentatge, i utilitzar-la per a la creacio, edicio, publicacio i difusio de continguts digitals.",
+      "criterios": [
+        {
+          "codigo": "2.1",
+          "texto": "Buscar i seleccionar informacio en funcio de les seues necessitats a partir de diverses fonts amb sentit critic, contrastant-ne la veracitat, fent us de les eines de l'entorn personal d'aprenentatge i seguint les normes basiques de seguretat en la xarxa."
+        },
+        {
+          "codigo": "2.2",
+          "texto": "Organitzar i gestionar l'entorn personal d'aprenentatge mitjancant la integracio de recursos digitals de manera autonoma."
+        },
+        {
+          "codigo": "2.3",
+          "texto": "Crear, integrar i editar continguts digitals amb sentit estetic de manera individual o col·lectiva, seleccionant les eines mes apropiades per a generar un nou coneixement i continguts digitals de manera creativa, i respectant els drets d'autoria."
+        },
+        {
+          "codigo": "2.4",
+          "texto": "Programar aplicacions senzilles multiplataforma de manera creativa, de manera individual o col·lectiva, respectant els drets d'autoria i llicencies d'us."
+        },
+        {
+          "codigo": "2.5",
+          "texto": "Compartir i publicar informacio i dades interactuant en espais virtuals de comunicacio i plataformes d'aprenentatge col·laboratiu, adaptant-se a diferents audiencies amb una actitud participativa i respectuosa."
+        },
+        {
+          "codigo": "2.6",
+          "texto": "Participar en equips de treball per a afavorir l'aprenentatge permanent mitjancant entorns digitals."
+        }
+      ]
+    },
+    {
+      "codigo": "CE3",
+      "texto": "Mostrar habits que fomenten el benestar en entorns digitals, aplicant mesures preventives i correctives per a protegir dispositius, dades personals i la propia salut.",
+      "criterios": [
+        {
+          "codigo": "3.1",
+          "texto": "Dissenyar, utilitzar i mantindre estrategies basiques de seguretat en dispositius digitals i xarxes de comunicacio, salvaguardant els equips i la informacio que contenen."
+        },
+        {
+          "codigo": "3.2",
+          "texto": "Protegir les dades personals i la identitat digital, configurant adequadament les condicions de privacitat de les xarxes socials i espais virtuals de treball."
+        },
+        {
+          "codigo": "3.3",
+          "texto": "Adoptar conductes proactives que protegisquen les persones i fomenten relacions personals respectuoses i enriquidores."
+        },
+        {
+          "codigo": "3.4",
+          "texto": "Identificar i saber reaccionar davant de situacions que representen amenaces a traves de dispositius digitals, triant la millor solucio entre diverses opcions i valorant el benestar personal i col·lectiu."
+        },
+        {
+          "codigo": "3.5",
+          "texto": "Prendre mesures de prevencio davant dels riscos derivats de l'us continuat de dispositius digitals."
+        },
+        {
+          "codigo": "3.6",
+          "texto": "Mostrar empatia cap als membres del grup reconeixent les seues aportacions i establint un dialeg igualitari per a resoldre conflictes i discrepancies."
+        }
+      ]
+    },
+    {
+      "codigo": "CE4",
+      "texto": "Exercir una ciutadania digital critica mitjancant un us actiu, responsable i etic dels mitjans digitals, el comerc electronic i l'administracio digital en la societat de la informacio.",
+      "criterios": [
+        {
+          "codigo": "4.1",
+          "texto": "Fer un us etic de les dades i de les eines digitals, aplicant l'etiqueta digital, col·laborant i participant activament en la xarxa."
+        },
+        {
+          "codigo": "4.2",
+          "texto": "Reconeixer les aportacions de les plataformes digitals en les gestions administratives i el comerc electronic, sent conscient de la bretxa d'acces, us i aprofitament per a diversos col·lectius."
+        },
+        {
+          "codigo": "4.3",
+          "texto": "Valorar la importancia de l'oportunitat, facilitat i llibertat d'expressio que suposen els mitjans digitals i comunitats virtuals per a poder exercir un activisme etic i responsable."
+        },
+        {
+          "codigo": "4.4",
+          "texto": "Analitzar de manera critica el missatge transmes en mitjans digitals, tenint-ne en compte l'objectivitat, ideologia, intencionalitat, biaixos i caducitat."
+        },
+        {
+          "codigo": "4.5",
+          "texto": "Analitzar la necessitat i els beneficis globals d'un us i desenvolupament ecosocialment responsable de les tecnologies digitals, tenint en compte criteris d'accessibilitat, sostenibilitat i impacte."
+        }
+      ]
+    },
+    {
+      "codigo": "CE5",
+      "texto": "Afrontar els desafiaments informatics i digitals que la societat de la informacio planteja en els ambits personal, domestic i educatiu, i formular possibles solucions.",
+      "criterios": [
+        {
+          "codigo": "5.1",
+          "texto": "Gestionar situacions d'incertesa en entorns digitals amb una actitud positiva, i afrontar-les utilitzant el coneixement adquirit i sentint-se competent."
+        },
+        {
+          "codigo": "5.2",
+          "texto": "Desenvolupar projectes de digitalitzacio en l'entorn quotidia amb iniciativa, analitzant les situacions des de diferents punts de vista i proposant solucions creatives."
+        },
+        {
+          "codigo": "5.3",
+          "texto": "Assumir proactivament responsabilitats en el marc d'un grup de treball per a abordar desafiaments concrets propis d'una societat digitalitzada i aconseguir metes conjuntes."
+        },
+        {
+          "codigo": "5.4",
+          "texto": "Resoldre problemes tecnics senzills analitzant components i funcions dels dispositius digitals, avaluant les solucions de manera critica i reformulant el procediment utilitzat en cas necessari."
+        }
+      ]
+    }
+  ],
+  "temas": [
+    {
+      "n": 1,
+      "name": "Arquitectura d'ordinadors",
+      "bloc": "Bloc 1 de sabers basics",
+      "eval": 1,
+      "competencia": {
+        "codi": "CE1",
+        "text": "Dissenyar equips i xarxes de comunicacio d'us personal i domestic, administrar-los i utilitzar-los de manera segura i sostenible.",
+        "criteris": "1.1-1.6"
+      },
+      "competencies_extra": [
+        {
+          "etiqueta": "Competencia transversal",
+          "codi": "CE5",
+          "text": "Afrontar els desafiaments informatics i digitals que la societat de la informacio planteja en els ambits personal, domestic i educatiu, i formular possibles solucions.",
+          "criteris": "5.1-5.4"
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "name": "Sistemes operatius",
+      "bloc": "Bloc 1 de sabers basics",
+      "eval": 1,
+      "competencia": {
+        "codi": "CE1",
+        "text": "Dissenyar equips i xarxes de comunicacio d'us personal i domestic, administrar-los i utilitzar-los de manera segura i sostenible.",
+        "criteris": "1.1-1.6"
+      },
+      "competencies_extra": [
+        {
+          "etiqueta": "Competencia transversal",
+          "codi": "CE5",
+          "text": "Afrontar els desafiaments informatics i digitals que la societat de la informacio planteja en els ambits personal, domestic i educatiu, i formular possibles solucions.",
+          "criteris": "5.1-5.4"
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "name": "Sistemes de comunicacio i Internet",
+      "bloc": "Bloc 1 de sabers basics",
+      "eval": 1,
+      "competencia": {
+        "codi": "CE1",
+        "text": "Dissenyar equips i xarxes de comunicacio d'us personal i domestic, administrar-los i utilitzar-los de manera segura i sostenible.",
+        "criteris": "1.1-1.6"
+      },
+      "competencies_extra": [
+        {
+          "etiqueta": "Competencia transversal",
+          "codi": "CE5",
+          "text": "Afrontar els desafiaments informatics i digitals que la societat de la informacio planteja en els ambits personal, domestic i educatiu, i formular possibles solucions.",
+          "criteris": "5.1-5.4"
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "name": "Resolucio de problemes",
+      "bloc": "Bloc 1 de sabers basics",
+      "eval": 1,
+      "competencia": {
+        "codi": "CE1",
+        "text": "Dissenyar equips i xarxes de comunicacio d'us personal i domestic, administrar-los i utilitzar-los de manera segura i sostenible.",
+        "criteris": "1.1-1.6"
+      },
+      "competencies_extra": [
+        {
+          "etiqueta": "Competencia transversal",
+          "codi": "CE5",
+          "text": "Afrontar els desafiaments informatics i digitals que la societat de la informacio planteja en els ambits personal, domestic i educatiu, i formular possibles solucions.",
+          "criteris": "5.1-5.4"
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "name": "Cerca i seleccio d'informacio",
+      "bloc": "Bloc 2 de sabers basics",
+      "eval": 2,
+      "competencia": {
+        "codi": "CE2",
+        "text": "Buscar, seleccionar i organitzar la informacio en l'entorn personal d'aprenentatge, i utilitzar-la per a la creacio, edicio, publicacio i difusio de continguts digitals.",
+        "criteris": "2.1-2.6"
+      },
+      "competencies_extra": [
+        {
+          "etiqueta": "Competencia transversal",
+          "codi": "CE5",
+          "text": "Afrontar els desafiaments informatics i digitals que la societat de la informacio planteja en els ambits personal, domestic i educatiu, i formular possibles solucions.",
+          "criteris": "5.1-5.4"
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "name": "Organitzacio de l'entorn de treball digital",
+      "bloc": "Bloc 2 de sabers basics",
+      "eval": 2,
+      "competencia": {
+        "codi": "CE2",
+        "text": "Buscar, seleccionar i organitzar la informacio en l'entorn personal d'aprenentatge, i utilitzar-la per a la creacio, edicio, publicacio i difusio de continguts digitals.",
+        "criteris": "2.1-2.6"
+      },
+      "competencies_extra": [
+        {
+          "etiqueta": "Competencia transversal",
+          "codi": "CE5",
+          "text": "Afrontar els desafiaments informatics i digitals que la societat de la informacio planteja en els ambits personal, domestic i educatiu, i formular possibles solucions.",
+          "criteris": "5.1-5.4"
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "name": "Creacio de continguts digitals",
+      "bloc": "Bloc 2 de sabers basics",
+      "eval": 2,
+      "competencia": {
+        "codi": "CE2",
+        "text": "Buscar, seleccionar i organitzar la informacio en l'entorn personal d'aprenentatge, i utilitzar-la per a la creacio, edicio, publicacio i difusio de continguts digitals.",
+        "criteris": "2.1-2.6"
+      },
+      "competencies_extra": [
+        {
+          "etiqueta": "Competencia transversal",
+          "codi": "CE5",
+          "text": "Afrontar els desafiaments informatics i digitals que la societat de la informacio planteja en els ambits personal, domestic i educatiu, i formular possibles solucions.",
+          "criteris": "5.1-5.4"
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "name": "Programacio d'aplicacions",
+      "bloc": "Bloc 2 de sabers basics",
+      "eval": 2,
+      "competencia": {
+        "codi": "CE2",
+        "text": "Buscar, seleccionar i organitzar la informacio en l'entorn personal d'aprenentatge, i utilitzar-la per a la creacio, edicio, publicacio i difusio de continguts digitals.",
+        "criteris": "2.1-2.6"
+      },
+      "competencies_extra": [
+        {
+          "etiqueta": "Competencia transversal",
+          "codi": "CE5",
+          "text": "Afrontar els desafiaments informatics i digitals que la societat de la informacio planteja en els ambits personal, domestic i educatiu, i formular possibles solucions.",
+          "criteris": "5.1-5.4"
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "name": "Comunicacio i col·laboracio en xarxa",
+      "bloc": "Bloc 2 de sabers basics",
+      "eval": 2,
+      "competencia": {
+        "codi": "CE2",
+        "text": "Buscar, seleccionar i organitzar la informacio en l'entorn personal d'aprenentatge, i utilitzar-la per a la creacio, edicio, publicacio i difusio de continguts digitals.",
+        "criteris": "2.1-2.6"
+      },
+      "competencies_extra": [
+        {
+          "etiqueta": "Competencia transversal",
+          "codi": "CE5",
+          "text": "Afrontar els desafiaments informatics i digitals que la societat de la informacio planteja en els ambits personal, domestic i educatiu, i formular possibles solucions.",
+          "criteris": "5.1-5.4"
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "name": "Publicacio i difusio responsable en xarxes",
+      "bloc": "Bloc 2 de sabers basics",
+      "eval": 2,
+      "competencia": {
+        "codi": "CE2",
+        "text": "Buscar, seleccionar i organitzar la informacio en l'entorn personal d'aprenentatge, i utilitzar-la per a la creacio, edicio, publicacio i difusio de continguts digitals.",
+        "criteris": "2.1-2.6"
+      },
+      "competencies_extra": [
+        {
+          "etiqueta": "Competencia transversal",
+          "codi": "CE5",
+          "text": "Afrontar els desafiaments informatics i digitals que la societat de la informacio planteja en els ambits personal, domestic i educatiu, i formular possibles solucions.",
+          "criteris": "5.1-5.4"
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "name": "Seguretat en l'us de dispositius i dades",
+      "bloc": "Bloc 3 de sabers basics",
+      "eval": 3,
+      "competencia": {
+        "codi": "CE3",
+        "text": "Mostrar habits que fomenten el benestar en entorns digitals aplicant mesures preventives i correctives per a protegir dispositius, dades personals i la propia salut.",
+        "criteris": "3.1-3.6"
+      },
+      "competencies_extra": [
+        {
+          "etiqueta": "Competencia transversal",
+          "codi": "CE5",
+          "text": "Afrontar els desafiaments informatics i digitals que la societat de la informacio planteja en els ambits personal, domestic i educatiu, i formular possibles solucions.",
+          "criteris": "5.1-5.4"
+        }
+      ]
+    },
+    {
+      "n": 12,
+      "name": "Benestar en entorns digitals",
+      "bloc": "Bloc 3 de sabers basics",
+      "eval": 3,
+      "competencia": {
+        "codi": "CE3",
+        "text": "Mostrar habits que fomenten el benestar en entorns digitals aplicant mesures preventives i correctives per a protegir dispositius, dades personals i la propia salut.",
+        "criteris": "3.1-3.6"
+      },
+      "competencies_extra": [
+        {
+          "etiqueta": "Competencia transversal",
+          "codi": "CE5",
+          "text": "Afrontar els desafiaments informatics i digitals que la societat de la informacio planteja en els ambits personal, domestic i educatiu, i formular possibles solucions.",
+          "criteris": "5.1-5.4"
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "name": "Interactivitat en la xarxa",
+      "bloc": "Bloc 4 de sabers basics",
+      "eval": 3,
+      "competencia": {
+        "codi": "CE4",
+        "text": "Exercir una ciutadania digital critica mitjancant un us actiu, responsable i etic dels mitjans digitals, el comerc electronic i l'administracio digital.",
+        "criteris": "4.1-4.5"
+      },
+      "competencies_extra": [
+        {
+          "etiqueta": "Competencia transversal",
+          "codi": "CE5",
+          "text": "Afrontar els desafiaments informatics i digitals que la societat de la informacio planteja en els ambits personal, domestic i educatiu, i formular possibles solucions.",
+          "criteris": "5.1-5.4"
+        }
+      ]
+    },
+    {
+      "n": 14,
+      "name": "Educacio mediatica",
+      "bloc": "Bloc 4 de sabers basics",
+      "eval": 3,
+      "competencia": {
+        "codi": "CE4",
+        "text": "Exercir una ciutadania digital critica mitjancant un us actiu, responsable i etic dels mitjans digitals, el comerc electronic i l'administracio digital.",
+        "criteris": "4.1-4.5"
+      },
+      "competencies_extra": [
+        {
+          "etiqueta": "Competencia transversal",
+          "codi": "CE5",
+          "text": "Afrontar els desafiaments informatics i digitals que la societat de la informacio planteja en els ambits personal, domestic i educatiu, i formular possibles solucions.",
+          "criteris": "5.1-5.4"
+        }
+      ]
+    },
+    {
+      "n": 15,
+      "name": "Gestions administratives",
+      "bloc": "Bloc 4 de sabers basics",
+      "eval": 3,
+      "competencia": {
+        "codi": "CE4",
+        "text": "Exercir una ciutadania digital critica mitjancant un us actiu, responsable i etic dels mitjans digitals, el comerc electronic i l'administracio digital.",
+        "criteris": "4.1-4.5"
+      },
+      "competencies_extra": [
+        {
+          "etiqueta": "Competencia transversal",
+          "codi": "CE5",
+          "text": "Afrontar els desafiaments informatics i digitals que la societat de la informacio planteja en els ambits personal, domestic i educatiu, i formular possibles solucions.",
+          "criteris": "5.1-5.4"
+        }
+      ]
+    },
+    {
+      "n": 16,
+      "name": "Comerc electronic",
+      "bloc": "Bloc 4 de sabers basics",
+      "eval": 3,
+      "competencia": {
+        "codi": "CE4",
+        "text": "Exercir una ciutadania digital critica mitjancant un us actiu, responsable i etic dels mitjans digitals, el comerc electronic i l'administracio digital.",
+        "criteris": "4.1-4.5"
+      },
+      "competencies_extra": [
+        {
+          "etiqueta": "Competencia transversal",
+          "codi": "CE5",
+          "text": "Afrontar els desafiaments informatics i digitals que la societat de la informacio planteja en els ambits personal, domestic i educatiu, i formular possibles solucions.",
+          "criteris": "5.1-5.4"
+        }
+      ]
+    },
+    {
+      "n": 17,
+      "name": "Etica en l'us de dades i eines digitals",
+      "bloc": "Bloc 4 de sabers basics",
+      "eval": 3,
+      "competencia": {
+        "codi": "CE4",
+        "text": "Exercir una ciutadania digital critica mitjancant un us actiu, responsable i etic dels mitjans digitals, el comerc electronic i l'administracio digital.",
+        "criteris": "4.1-4.5"
+      },
+      "competencies_extra": [
+        {
+          "etiqueta": "Competencia transversal",
+          "codi": "CE5",
+          "text": "Afrontar els desafiaments informatics i digitals que la societat de la informacio planteja en els ambits personal, domestic i educatiu, i formular possibles solucions.",
+          "criteris": "5.1-5.4"
+        }
+      ]
+    },
+    {
+      "n": 18,
+      "name": "Activisme en linia",
+      "bloc": "Bloc 4 de sabers basics",
+      "eval": 3,
+      "competencia": {
+        "codi": "CE4",
+        "text": "Exercir una ciutadania digital critica mitjancant un us actiu, responsable i etic dels mitjans digitals, el comerc electronic i l'administracio digital.",
+        "criteris": "4.1-4.5"
+      },
+      "competencies_extra": [
+        {
+          "etiqueta": "Competencia transversal",
+          "codi": "CE5",
+          "text": "Afrontar els desafiaments informatics i digitals que la societat de la informacio planteja en els ambits personal, domestic i educatiu, i formular possibles solucions.",
+          "criteris": "5.1-5.4"
+        }
+      ]
+    }
+  ],
+  "evaluacio_weights": {
+    "activitats": 60,
+    "recursos": 30,
+    "examen": 10
+  }
+}

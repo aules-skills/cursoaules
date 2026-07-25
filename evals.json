@@ -1,0 +1,17 @@
+{
+  "skill_name": "cursoaules",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "Tengo el PDF del currículum oficial de Digitalización 4º ESO (Comunitat Valenciana, Decreto 107/2022) en 'test_pdfs/Digitalitzacio.pdf' (dentro de la carpeta de trabajo, subcarpeta 'aules mbz'). Quiero un curso de Aules para Digitalització 4t ESO organizado por temas y competencias, con las 3 evaluaciones de peso igual de siempre. Genera el .mbz.",
+      "expected_output": "Un .mbz restaurable con ~18-19 secciones (una de introducción + una por cada subapartado de sabers básics de los 4 bloques del currículum de Digitalización), cada tema asociado a su competencia específica (CE1-CE4) más la competencia transversal CE5, y un libro de calificaciones de 4 niveles: raíz -> 3 evaluaciones (33/33/33) -> temas de esa evaluación (peso igual entre ellos) -> Practiques/Recursos (50/50) en cada tema.",
+      "files": ["Digitalitzacio.pdf"]
+    },
+    {
+      "id": 1,
+      "prompt": "Necesito montar en Aules la asignatura de Tecnologia i Digitalització (1r/2n/3r ESO, Comunitat Valenciana). Te dejo el PDF oficial del currículum en 'test_pdfs/tecnologia_digitalitzacio.pdf'. Quiero el mismo tipo de curso que ya me has hecho otras veces: por temas, con competencias asociadas y las 3 evaluaciones de siempre.",
+      "expected_output": "Un .mbz restaurable con secciones derivadas de los bloques de sabers básics de Tecnologia i Digitalització (que en este currículum son 7, con nombres distintos a los de Digitalización: resolución de problemes, entorno personal digital, pensamiento computacional/robótica, eines i màquines, materials i solucions tecnològiques, creació/expressió/comunicació, tecnologia), cada tema asociado a al menos una de las 7 competencias específicas de esta materia (que tiene una estructura de competencias/criterios distinta a la de Digitalización: los criterios de evaluación aparecen dentro de cada competencia, no en una tabla aparte), y el mismo esquema de gradebook de 4 niveles con evaluaciones/temas/Practiques-Recursos en pesos iguales.",
+      "files": ["tecnologia_digitalitzacio.pdf"]
+    }
+  ]
+}
